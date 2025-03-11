@@ -15,3 +15,7 @@ Gerenciador de Tarefas - DNC
 - HTML: Para estruturação da página.
 - CSS: Para estilização da interface.
 - JavaScript: Para a lógica de funcionamento do gerenciador de tarefas, incluindo a manipulação do DOM, armazenamento local e interatividade.
+
+. Link do site para acessar o projeto
+
+- https://gerenciador-tasks.netlify.app/
