@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
             taskElement.classList.add('tasks');
 
             taskElement.innerHTML = `
-                <div>
+                <div class="left">
                     <h2 class="task-name">${description}</h2>
                     <div id="etiqueta">
                         <div id="circular">
